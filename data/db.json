@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "delectus aut autem123",
+      "details": "Lorem ipsum dolor sit, amet consectetur adipisicing elit.",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "et porro tempora",
+      "details": "Quas eaque molestias porro sunt repudiandae nostrum qui reiciendis?",
+      "complete": true
+    },
+    {
+      "id": 3,
+      "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
+      "details": "Ab perferendis explicabo excepturi amet modi provident!",
+      "complete": true
+    },
+    {
+      "title": "Spontaneous sex",
+      "details": "This is a new project where i will tell you about how two young people trying to fuck in my bar",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Homless",
+      "details": "Tommorow some drunk homless guy came in to my bar, when i ask him to leave, he say \"No\".\nThat's why i took a bar stool and pushed him out.",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
