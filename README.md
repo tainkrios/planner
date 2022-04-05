@@ -1,4 +1,4 @@
-# planner
+# Planner
 
 ## Project setup
 ```
@@ -7,9 +7,9 @@ npm install
 ### JSON-server setup
 ```
 npm install json-server
-```
+
 json-server --watch data/db.json
-``
+```
 
 ### Compiles and hot-reloads for development
 ```
